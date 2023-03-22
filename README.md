@@ -19,3 +19,6 @@
 
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name)
+
+<img src="https://raw.githubusercontent.com/sofiane/sofiane/blob/output/snake.svg" alt="Snake animation" />
+

@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Oriented object Python**
 
-- 👨‍💻 All of my projects are available at [https://sofiane-kebci.netlify.app/](https://sofiane-kebci.netlify.app/)
-
+- 👨‍💻 All of my projects are available at on progress
+- 
 - 📫 How to reach me **sofyanekebci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,19 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kebcisofiane&show_icons=true&locale=en" alt="kebcisofiane" /></p>
 
-<!--
-**kebciSofiane/kebciSofiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebciSofiane&layout=compact&theme=theme)

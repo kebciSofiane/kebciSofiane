@@ -2,11 +2,11 @@
 <h3 align="center">A student at Aix-Marseille Université</h3>
 
 - 🌱 I’m currently learning **Oriented object Python**
-
 - 👨‍💻 All of my projects are available at on progress
+- 📫 How to reach me **sofyanekebci@gmail.com**
 
--  <a href="https://linkedin.com/in/sofiane kebci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiane kebci" height="30" width="40" /></a>
-</p> How to reach me **sofyanekebci@gmail.com**
+<a href="https://linkedin.com/in/sofiane kebci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiane kebci" height="30" width="40" /></a>
+</p> 
 
 
 <h3 align="center">Programming languages :</h3>

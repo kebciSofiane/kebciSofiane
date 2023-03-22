@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Oriented object Python**
 
 - 👨‍💻 All of my projects are available at on progress
-- 
+
 - 📫 How to reach me **sofyanekebci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebcisofiane&show_icons=true&locale=en&layout=compact" alt="kebcisofiane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kebcisofiane&show_icons=true&locale=en" alt="kebcisofiane" /></p>
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name)

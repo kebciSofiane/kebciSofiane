@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
+<p align ="center"> <img  src ="github-header-image.png"></p>
 <h3 align="center">A student at Aix-Marseille Université</h3>
 <div align ="center">
 <p> :pushpin: I’m currently learning about IA and Oriented object Python</p>

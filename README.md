@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofiane</h1>
 <h3 align="center">A student at Aix-Marseille Université</h3>
 
-- 🌱 I’m currently learning **Oriented object Python**
+- 🌱 I’m currently learning about IA AND Oriented object Python
 - 👨‍💻 All of my projects are available at on progress
 - 📫 How to reach me **sofyanekebci@gmail.com**
 

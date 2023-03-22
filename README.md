@@ -3,8 +3,7 @@
 <div align ="center">
 <p> :pushpin: I’m currently learning about IA and Oriented object Python</p>
 <p> 👨‍💻 All of my projects are available at : -on progress-<p/>
-<p> 📫 How to reach me : sofyanekebci@gmail.com <p/>
-<div/>![Uploading image.png…]()
+<p> :envelope_with_arrow:	How to reach me : sofyanekebci@gmail.com <p/>
 
 
 <h2 align="center">Programming languages :</h2>

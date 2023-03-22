@@ -24,3 +24,5 @@
  <h2 align="center">Check up some stats :</h2>
 
  <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebcisofiane&show_icons=true&locale=en&layout=compact" alt="kebcisofiane" /></p>
+
+<p align ="center" > <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name"/></p>

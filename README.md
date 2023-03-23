@@ -27,7 +27,7 @@
 </p>
 
  
- <h2 align="center">Check up some stats :</h2>
+ <h2 align="center">Check out some stats :</h2>
 
  <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebcisofiane&show_icons=true&locale=en&layout=compact" alt="kebcisofiane" /></p>
 

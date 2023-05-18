@@ -2,7 +2,7 @@
 <p align ="center"> <img  src ="github-header-image.png"></p>
 <h3 align="center">A student at Aix-Marseille Université</h3>
 <div align ="center">
-<p> :pushpin: I’m currently learning about IA and Oriented object Python</p>
+<p> :pushpin: I’m currently working on an android app</p>
 <p> 👨‍💻 All of my projects are available at : https://sofiane-kebci.netlify.app/ <p/>
 <p> :envelope_with_arrow:	How to reach me : sofyanekebci@gmail.com <p/>
 

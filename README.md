@@ -27,7 +27,7 @@
 </p>
 
  
- <h2 align="center">Check out some stats (Current week) :</h2>
+ <h2 align="center">Check out some stats :</h2>
 
  <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kebciSofiane&layout=compact&theme=dark&v=2&range=all_time" alt="kebcisofiane" /></p>
 

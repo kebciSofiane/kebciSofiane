@@ -29,7 +29,7 @@
  
  <h2 align="center">Check out some stats (Current week) :</h2>
 
- <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kebcisofiane&show_icons=true&locale=en&layout=compact" alt="kebcisofiane" /></p>
+ <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kebciSofiane&layout=compact&theme=dark&v=2&range=all_time" alt="kebcisofiane" /></p>
 
 <p align ="center" > <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name"/></p>
 

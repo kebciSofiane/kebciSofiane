@@ -31,6 +31,5 @@
 
  <p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kebciSofiane&layout=compact&theme=dark&v=2&range=all_time" alt="kebcisofiane" /></p>
 
-<p align ="center" > <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=kebciSofiane&show_icons=true&theme=theme_name"/></p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=kebciSofiane&color=brightgreen" alt="watching_count" />

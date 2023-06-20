@@ -3,6 +3,7 @@
 <h3 align="center">A student at Aix-Marseille Université</h3>
 <div align ="center">
 <p> :pushpin: Last accomplishment: HoobyZoo </p>
+ <p align ="center">⌛  Spent time: <img  src ="https://wakatime.com/badge/github/kebciSofiane/HobbyZooApp.svg"></p>
 <p> 👨‍💻 All of my projects are available at : https://sofiane-kebci.netlify.app/ <p/>
 <p> :envelope_with_arrow:	How to reach me : sofyanekebci@gmail.com <p/>
 

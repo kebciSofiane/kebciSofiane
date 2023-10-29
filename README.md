@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, welcome to my profile</h1>
 <p align ="center"> <img  src ="github-header-image.png"></p>
-<h3 align="center">A student at Aix-Marseille Université</h3>
+<h3 align="center">Epitech student</h3>
 <div align ="center">
 <p> :pushpin: Last accomplishment: HoobyZoo </p>
  <p align ="center">⌛  Spent time: <img  src ="https://wakatime.com/badge/github/kebciSofiane/HobbyZooApp.svg"></p>
